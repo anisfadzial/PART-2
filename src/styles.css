@@ -1,0 +1,25 @@
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  gap: 10px; 
+  margin-top: 5px;
+}
+
+.f1{
+  margin-top: 20px;
+}
+
+.f2{
+  margin-top: 5px;
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+.required-star {
+  color: #ff0000; /* red color */
+  font-size: 14px;
+  margin-left: 2px;
+}
